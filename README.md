@@ -1,2 +1,2 @@
-# datascience
-Study of data science 
+# Data science
+Repository dedicated to study of data science 
